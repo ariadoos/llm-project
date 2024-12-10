@@ -16,3 +16,4 @@ This repo demostrate the usages of LLM via different projects with different jup
 
 - Week 1
     - CV reviewer : Provides feedback on the CV using OPEN API. 
+    - CV reviewer with Ollama
